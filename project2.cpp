@@ -4,12 +4,12 @@ class Shape {
 	public:
 		void setVariable1(int x) {
 			std::cout << x << "\n";
-			int vari1 = x;
+			 vari1 = x;
 			std::cout << vari1 << "\n";
 		}
 
 		void setVariable2(int y) {
-			int vari2 = y;
+			 vari2 = y;
 		}
 
 	protected:
